@@ -1,0 +1,20 @@
+{
+  "type": "service_account",
+  "project_id": "focused-veld-409010",
+  "private_key_id": "ffcb1c108fdf8e96052a0dd3ade3580f412179fe",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQChZJgbnBitUCz9\n4p5qkMWgB2h0ltEvm3njL2wXS4vAk8EGstkndLYOHwbZNuHuqL4AxTJshZl/ugOS\nN2hYZvKdpO/7LD+FIkeloKcWUY3bEsYaS1aqWqpjyISP8zGHupymH3dRRb+ZrlJl\nOUz9GQ9k8HDPoXBbPaNGYDntKLiA6TnTAihkqM1sWtFMX0bqde3OP4IqqeQTWKEm\n/mNI5Wy47KngNJ3TWeKssdMYregwJgV/a3S6S9X8UDhCnqozfhNzWHmPeyMeUGP0\n0FxdIf0hT8I5GfjBBKcL2dxqGAnCO7Pm5nqyLadPkwW5EVBvpptLafG+wcCxT990\nzrqPb4u7AgMBAAECggEAJXFlmq41yWu67HH5h8armsttL/NXd8CN4Ce934+uzhBZ\nbXjryWwZ2p/XImjJtOlgH2SgpK3AJXJd5rvFERFdQzajWHX1DKmdzq69ZP+ptgQe\ngrYs1pvvQPQh0RW+TXt9YUsWjvvsDjbztbk8A9IfEK95tKoDG5/qs+aaOcvDNmDH\nMTQt2GFTxp+v9xtcBQu+tlj93t04+sTdqin+7HmNvWzshpenm+GRxOSByVSLyaTe\nZLfUxyfRU3pf9wJSspgtpmlzLoDp8I5NdfRCnqymm3M13XjZgN1pUbKdexoLj2eB\nUAkaTGYDARQZ6t5Ko1oyKFf8Sb+OxCEfzuOgc7/jHQKBgQDLYbCLZJL67uwqEWw9\nc0eCecOxSbxKcMCv+Qusd+UNrSSY2uyTOuFF59kKj/3vPZkpxvce91aXh80f+4W4\ntaKG/mmnDaK14+MTPU/QsT8cDIZhJ6yTMSF8ThkfITs2YQXscic9oZe3q1tzZqu7\n9pOfE3tAnRvARjKSU+6PfWc4xQKBgQDLJeyhv1XPH5Uu+X99d2vHHbNdyFGw53fm\n9XccgTPJyQlRz0GoH4KgwGWsYGhLetXuRgi0KuItHcfbzP1iyj3FtbqXi119y+VJ\ntU9A8ON9MXrr2nekfLhBJCP5cKPN11aVJWL9oYOvsUw47PmR2jOuyK2/uaxkHcQ+\nDPEM1UL6fwKBgQCHe/ppwYQQWd1FYPnkLclzZ74vellOlbInCBb4u54A8Fiy4xQ6\nOD0dnod9e9LD7xr7M6ooHMi4hSTmq123YHh2yUCEopbD6J26kVt8QLcz7jwOuKlE\nHLSb5ELj8/VIEnYpvxnY+q7hEewIAlthCa/phsbSklaMTbcet37yY63BqQKBgB7e\n0Xm24KxL6VitE2GWjys/6SzcLwXJ9t+C96m+PIdyZFcpPpn0x93zvr+WGuM1dGL0\nA4iVZ69hciiFmw+zGfX8arFyvS9Ll7k+sx90O62fokVK+pllVn6XplvWcR3rlj2t\n48AVFjTRpXqVEEvIs8fguP6EkZzZJSQkxVCk67uzAoGBAJpMky01GI/lJl4lVa+s\n69hEZ+SyaNE92PoMn+6aPWEo6yqZJbt/Db5eyoYOUC64nA9/gtEpNIO9voC07gO/\n/Mn03pCh01CeqopF/MfRQG0T+khc70SVBguTVoBFuk79Jlngo1DJL7bkyb01SLAX\ngmihmA0vvfwgtEE+u1OIMc1F\n-----END PRIVATE KEY-----\n",
+  "client_email": "upload-frames@focused-veld-409010.iam.gserviceaccount.com",
+  "client_id": "104678202397771505352",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/upload-frames%40focused-veld-409010.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+
+
+/*this file is wrong make sure  to generate your own api credentials from google cloud console
+and replace this file with your own credentials*/
+
+}
+
+
